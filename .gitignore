@@ -30,4 +30,6 @@
 *.exe
 *.out
 *.app
-CG20221_03/CG20221_03/Debug/
+
+CG20221_03/.vs
+CG20221_03/CG20221_03/x64/Debug/CG20221_03.log
