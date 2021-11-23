@@ -1,7 +1,8 @@
 ﻿/*---------------------------------------------------------*/
 /* ----------------  Práctica  11               -----------*/
 /*-----------------    2022-1   ---------------------------*/
-/*------------- Alumno: Leonardo Alonso González Pacheco   ---------------*/
+/*------------- Alumno: Leonardo Alonso González Pacheco
+--------------- Eduardo Ruiz Aguilar*/
 /*------------- No. Cuenta    313221136        ---------------*/
 #include <Windows.h>
 
@@ -44,7 +45,7 @@ GLFWmonitor *monitors;
 void getResolution(void);
 
 // camera
-Camera camera(glm::vec3(0.0f, 40.0f, 300.0f));//posicion de la camara
+Camera camera(glm::vec3(0.0f, 40.0f, 200.0f));//posicion de la camara 40 300
 float MovementSpeed = 0.1f;
 float lastX = SCR_WIDTH / 2.0f;
 float lastY = SCR_HEIGHT / 2.0f;
@@ -71,8 +72,8 @@ double variacionLuz = 0.0;
 // posiciones
 //float x = 0.0f;
 //float y = 0.0f;
-float	movAuto_x = 0.0f,
-		movAuto_z = 0.0f,
+float	movAuto_x = -100.0f,//0
+		movAuto_z = -60.0f,//0
 		orienta = 180.0f,
         giroLlanta = 0.0f;
 
@@ -506,7 +507,7 @@ int main()
 
 	// load models
 	// -----------
-	Model piso("resources/objects/piso/piso.obj");
+	/*Model piso("resources/objects/piso/piso.obj");*/
 	Model botaDer("resources/objects/Personaje/bota.obj");
 	Model piernaDer("resources/objects/Personaje/piernader.obj");
 	Model piernaIzq("resources/objects/Personaje/piernader.obj");
@@ -518,9 +519,11 @@ int main()
 	Model llanta("resources/objects/lambo/Wheel.obj");
 	Model casaVieja("resources/objects/casa/OldHouse.obj");
 	//Model cubo("resources/objects/cubo/cube02.obj");
-	Model casaDoll("resources/objects/casa/DollHouse.obj");
-	Model casaBrujas("resources/objects/CasaBrujas/CasaBrujas.obj");
-	//Model avionGuerra("resources/objects/Avion/Avion.obj");
+	/*Model casaDoll("resources/objects/casa/DollHouse.obj");
+	Model casaBrujas("resources/objects/CasaBrujas/CasaBrujas.obj");*/
+	Model avionGuerra("resources/objects/Avion/Avion.obj");
+	Model casaMinimalista("resources/objects/casa2021/casa.obj");
+	Model camastro("resources/objects/sunbed/camastrof.obj");
 
 	/*ModelAnim animacionPersonaje("resources/objects/Personaje1/PersonajeBrazo.dae");
 	animacionPersonaje.initShaders(animShader.ID);
@@ -662,34 +665,67 @@ int main()
 		staticShader.setMat4("projection", projection);
 		staticShader.setMat4("view", view);
 
-		model = glm::translate(glm::mat4(1.0f), glm::vec3(250.0f, 0.0f, -10.0f));
+		/*model = glm::translate(glm::mat4(1.0f), glm::vec3(250.0f, 0.0f, -10.0f));
 		model = glm::rotate(model, glm::radians(-90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
 		staticShader.setMat4("model", model);
-		casaDoll.Draw(staticShader);
+		casaDoll.Draw(staticShader);*/
 
-		model = glm::mat4(1.0f);
+		/*model = glm::mat4(1.0f);
 		model = glm::translate(model, glm::vec3(0.0f, -1.75f, 0.0f));
 		model = glm::scale(model, glm::vec3(0.2f));
 		staticShader.setMat4("model", model);
-		piso.Draw(staticShader);
+		piso.Draw(staticShader);*/
 
-		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 0.0f, -70.0f));
+		/*model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 0.0f, -70.0f));
 		model = glm::scale(model, glm::vec3(5.0f));
 		staticShader.setMat4("model", model);
-		casaVieja.Draw(staticShader);
+		casaVieja.Draw(staticShader);*/
 
-		model = glm::translate(glm::mat4(1.0f), glm::vec3(-70.0f, 0.0f, -70.0f));
+		/*model = glm::translate(glm::mat4(1.0f), glm::vec3(-70.0f, 0.0f, -70.0f));
 		model = glm::rotate(model, glm::radians(-90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
 		model = glm::scale(model, glm::vec3(5.0f));
 		staticShader.setMat4("model", model);
-		casaBrujas.Draw(staticShader);
+		casaBrujas.Draw(staticShader);*/
 
-		//model = glm::translate(glm::mat4(1.0f), glm::vec3(70.0f, 0.0f,30.0f));
-		////model = glm::rotate(model, glm::radians(-90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
-		////model = glm::scale(model, glm::vec3(1.0f));
-		//staticShader.setMat4("model", model);
-		//avionGuerra.Draw(staticShader);
+		glEnable(GL_BLEND);
+		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA); //Se agrega trnasparencia
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 0.0f, 0.0f)); // -70 200
+		model = glm::rotate(model, glm::radians(-90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(5.0f));
+		staticShader.setMat4("model", model);
+		casaMinimalista.Draw(staticShader);
+		glEnable(GL_BLEND);
 
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(10.0f, 0.0f,120.0f));//70
+		model = glm::rotate(model, glm::radians(-90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(0.5f));
+		staticShader.setMat4("model", model);
+		avionGuerra.Draw(staticShader);
+
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(40.0f, 0.0f,-150.0f));//70,50
+		model = glm::rotate(model, glm::radians(-180.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(8.0f));
+		staticShader.setMat4("model", model);
+		camastro.Draw(staticShader);
+
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(60.0f, 0.0f, -150.0f));//70,50
+		model = glm::rotate(model, glm::radians(-180.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(8.0f));
+		staticShader.setMat4("model", model);
+		camastro.Draw(staticShader);
+
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(80.0f, 0.0f, -150.0f));//70,50
+		model = glm::rotate(model, glm::radians(-180.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(8.0f));
+		staticShader.setMat4("model", model);
+		camastro.Draw(staticShader);
+
+		//Camastros del otro lado
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(40.0f, 0.0f, -60.0f));//70,50
+		model = glm::rotate(model, glm::radians(360.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(8.0f));
+		staticShader.setMat4("model", model);
+		camastro.Draw(staticShader);
 		// -------------------------------------------------------------------------------------------------------------------------
 		// Carro
 		// -------------------------------------------------------------------------------------------------------------------------

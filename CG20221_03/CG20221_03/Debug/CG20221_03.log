@@ -1,0 +1,33 @@
+﻿  Final11.cpp
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\Final11.cpp(195,25): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\Final11.cpp(196,25): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\Final11.cpp(209,24): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\Final11.cpp(210,43): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\Final11.cpp(416,22): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\Final11.cpp(934,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\Final11.cpp(935,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\Final11.cpp(939,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\Final11.cpp(940,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\Final11.cpp(942,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\Final11.cpp(943,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Facultad\LaboratorioCGeIHC\CG20221_03\CG20221_03\Final11.cpp(951,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  CG20221_03.vcxproj -> D:\Facultad\LaboratorioCGeIHC\CG20221_03\Debug\CG20221_03.exe
