@@ -1,0 +1,63 @@
+﻿  Final.cpp
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(191,25): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(192,25): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(195,18): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(196,19): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(197,18): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(198,18): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(199,19): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(200,18): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(203,53): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(204,53): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(316,22): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(867,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(868,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(872,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(873,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(875,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(876,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(884,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Practica1y2.vcxproj -> C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Debug\Practica1y2.exe
