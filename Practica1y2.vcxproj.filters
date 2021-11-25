@@ -38,7 +38,7 @@
     <ClCompile Include="glad.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="Final.cpp">
+    <ClCompile Include="Final11.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

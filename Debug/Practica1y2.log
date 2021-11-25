@@ -1,63 +1,48 @@
-﻿  Final.cpp
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(191,25): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+﻿  Final11.cpp
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(199,25): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
           with
           [
               T=float
           ]
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(192,25): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(200,25): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
           with
           [
               T=float
           ]
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(195,18): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(213,24): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
           with
           [
               T=float
           ]
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(196,19): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(214,43): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
           with
           [
               T=float
           ]
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(197,18): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
-          with
-          [
-              T=float
-          ]
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(198,18): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
-          with
-          [
-              T=float
-          ]
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(199,19): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
-          with
-          [
-              T=float
-          ]
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(200,18): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
-          with
-          [
-              T=float
-          ]
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(203,53): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
-          with
-          [
-              T=float
-          ]
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(204,53): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
-          with
-          [
-              T=float
-          ]
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(316,22): warning C4305: '=': truncamiento de 'double' a 'float'
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(867,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(868,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(872,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(873,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(875,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(876,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Final.cpp(884,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-  Practica1y2.vcxproj -> C:\Users\eduar\Documents\UNAM\2022-1\Lab CGEIHC\Práctica 1 y 2\Practica1y2\Debug\Practica1y2.exe
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(420,22): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1522,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1523,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1527,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1528,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1530,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1531,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1539,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+glfw3.lib(context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(context.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(init.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(monitor.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(vulkan.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(vulkan.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(window.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_init.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_joystick.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_monitor.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_time.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_time.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_thread.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_thread.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_window.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(wgl_context.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(egl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(egl_context.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(osmesa_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(osmesa_context.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Practica1y2.vcxproj -> C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\Practica1y2.exe

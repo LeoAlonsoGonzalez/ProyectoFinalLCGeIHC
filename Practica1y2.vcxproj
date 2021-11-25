@@ -27,7 +27,7 @@
     <None Include="shaders\skybox.vs" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Final.cpp" />
+    <ClCompile Include="Final11.cpp" />
     <ClCompile Include="glad.c" />
   </ItemGroup>
   <ItemGroup>
