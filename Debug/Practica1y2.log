@@ -2,34 +2,35 @@
 C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
 C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
 C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(199,25): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(217,25): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
           with
           [
               T=float
           ]
-C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(200,25): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(218,25): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
           with
           [
               T=float
           ]
-C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(213,24): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(231,24): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
           with
           [
               T=float
           ]
-C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(214,43): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(232,43): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
           with
           [
               T=float
           ]
-C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(420,22): warning C4305: '=': truncamiento de 'double' a 'float'
-C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1522,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1523,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1527,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1528,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1530,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1531,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1539,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(438,22): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(473,16): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1691,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1692,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1696,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1697,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1699,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1700,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Final11.cpp(1708,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
 glfw3.lib(context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(context.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
 glfw3.lib(init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(init.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
 glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'C:\Users\eduar\Documents\UNAM\2022-1\CGEIHC\ProyectoFinal\ProyectoFinalLCGeIHC\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
